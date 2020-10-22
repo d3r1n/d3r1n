@@ -1,16 +1,27 @@
-### Hi there 👋
+# **Hi.**
 
-<!--
-**d3r1n/d3r1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is *Derin Onder Eren* and I am a *Software Developer*.
+Programming Languages I use :
 
-Here are some ideas to get you started:
+ - ***Python*** 
+ - ***JavaScript***
+ - ***C# . NET***
+ -  ***Web Design (HTML, CSS)***
+ -  ***Node***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+##  **Contact**:
+Mail: derinonder.contact@gmail.com
+
+Discord: d0pe#0436
+
+Github: d3r1n
+
+    import life
+        
+    while Life.isDead != True:
+	    Goal = life.think(about="Projects")
+	    life.code(Goal)
+	    life.earn(Money,Love,Friend,Knowlege)
+	    ife.sleep()

@@ -23,5 +23,5 @@ Github: d3r1n
     while Life.isDead != True:
 	    Goal = life.think(about="Projects")
 	    life.code(Goal)
-	    life.earn(Money,Love,Friend,Knowlege)
+	    life.earn(Money,Love,Friends,Knowlege)
 	    ife.sleep()

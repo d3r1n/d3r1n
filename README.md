@@ -7,8 +7,7 @@ Programming Languages I use :
  - ***JavaScript***
  -  ***Web Design (HTML, CSS)***
  -  ***Node***
-  *And my favorite*
- - ***RUST***
+ - ***RUST*** (*my favorite*)
 
 
 

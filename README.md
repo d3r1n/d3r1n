@@ -5,23 +5,30 @@ Programming Languages I use :
 
  - ***Python*** 
  - ***JavaScript***
- - ***C# . NET***
  -  ***Web Design (HTML, CSS)***
  -  ***Node***
+  *And my favorite*
+ - ***RUST***
 
 
 
 ##  **Contact**:
 Mail: derinonder.contact@gmail.com
 
-Discord: d0pe#0436
+Discord: d3r1n#0436
 
 Github: d3r1n
 
-    import life
-        
-    while Life.isDead != True:
-	    Goal = life.think(about="Projects")
-	    life.code(Goal)
-	    life.earn(Money,Love,Friends,Knowlege)
-	    ife.sleep()
+```rust
+use std::life;
+
+fn main() {
+	loop {
+		life::live()
+			.eat()
+			.sleep()
+			.code()
+			.unwrap()?;
+	}
+}
+```

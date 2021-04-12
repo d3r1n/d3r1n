@@ -5,6 +5,7 @@ Programming Languages I use :
 
  - ***Python*** 
  - ***JavaScript***
+ - ***TypeScript***
  -  ***Web Design (HTML, CSS)***
  -  ***Node***
  - ***RUST*** (*my favorite*)

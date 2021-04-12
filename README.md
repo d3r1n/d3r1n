@@ -2,15 +2,15 @@
 
 # **Hi.**
 
-My Name is *Derin Onder Eren* and I am a *Software Developer*.
+My Name is *Derin Onder Eren* and I am a 14 y.o boy who loves to code (*a bit much*).
 Programming Languages I use :
 
- - ***Python*** 
+ - ***Python*** <3
  - ***JavaScript***
- - ***TypeScript***
+ - ***TypeScript*** <3
  -  ***Web Design (HTML, CSS)***
  -  ***Node***
- - ***RUST*** (*my favorite*)
+ - ***RUST*** <3 (*my favorite*)
 
 
 

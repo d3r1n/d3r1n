@@ -10,6 +10,7 @@ Programming Languages I use :
  - ***TypeScript*** <3
  -  ***Web Design (HTML, CSS)***
  -  ***Node***
+ -  ***C++*** <3 
  - ***RUST*** <3 (*my favorite*)
 
 

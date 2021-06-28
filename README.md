@@ -1,37 +1,36 @@
-![My Image](https://i.ibb.co/P49M3xb/Frame-1-Background-1.png)
-
-# **Hi.**
-
-My Name is *Derin Onder Eren* and I am a 14 y.o boy who loves to code (*a bit much*).
-Programming Languages I use :
-
- - ***Python*** <3
- - ***JavaScript***
- - ***TypeScript*** <3
- -  ***Web Design (HTML, CSS)***
- -  ***Node***
- -  ***C++*** <3 
- - ***RUST*** <3 (*my favorite*)
-
-
-
-##  **Contact**:
-Mail: derinonder.contact@gmail.com
-
-Discord: d3r1n#0436
-
-Github: d3r1n
-
-```rust
-use std::life;
-
-fn main() {
-	loop {
-		life::live()
-			.eat()
-			.sleep()
-			.code()
-			.unwrap()?;
-	}
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=09CAF7&size=50&center=true&vCenter=true&width=800&height=400&lines=15+y.o+Developer...)](https://git.io/typing-svg)
+# Hi! 👋 I'm *{d3r1n}*
+I'm a young boy who is obsessed with computers, electronics, sience and nerd stuff..
+And Developing Games, Web Apps, Software, AI, ML, IoT.
+----
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/704758931343278162)](https://discord.com/users/704758931343278162)
+----
+# And?
+```Rust
+#[derive(Debug)]
+enum Other_Stuff {
+	/* Programming Languages */
+	
+	Rust-lang,
+	Python,
+	JavaScript,
+	TypeScript,
+	C++,
+	Front-end_stuff(HTML, CSS, React, etc)
+	
+	/* Hobbies */
+	
+	Rowing(Galatasaray Rowing Team)
+	Running,
+	Swimming,
+	Bikes,
+	Drawing,
+	Electronics,
+	Music,
 }
 ```
+
+-----
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+-----
+![visitors](https://visitor-badge.glitch.me/badge?page_id=d3r1n.d3r1n)

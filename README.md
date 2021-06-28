@@ -31,6 +31,6 @@ enum Other_Stuff {
 ```
 
 -----
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default)]
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default)
 -----
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=d3r1n.d3r1n)

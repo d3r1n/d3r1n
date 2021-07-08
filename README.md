@@ -16,7 +16,6 @@ enum Other_Stuff {
 	JavaScript,
 	TypeScript,
 	Go-lang(learning),
-	C++(learning)
 	Front-end_stuff(HTML, CSS, React, etc)
 	
 	/* Hobbies */

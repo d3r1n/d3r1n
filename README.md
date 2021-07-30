@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm d3r1n</h1>
 <h3 align="center">15 y.o Full-stack Web, IoT, Game, Software</h3>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=50px&bg=#282a36)](https://discord.com/users/704758931343278162)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=25px&bg=#282a36)](https://discord.com/users/704758931343278162)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3r1n&label=Profile%20views&color=0e75b6&style=flat" alt="d3r1n" /> </p>

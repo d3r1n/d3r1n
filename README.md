@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [My Website](d3r1n.com)
 
-- 🌱 I’m currently learning **Go-lang, Vue, TypeScript**
+- 🌱 I’m currently learning **Go-lang, Vue, Elixir**
 
 - 👨‍💻 All of my projects are available at [d3r1n.com](d3r1n.com)
 
-- 💬 Ask me about **Rust-lang, Python, JavaScript, IoT, Web, Backend**
+- 💬 Ask me about **Rust-lang, Python, JavaScript, Go, Elixir, C++, IoT, Web, Backend**
 
 - 📫 How to reach me **derinondereren@gmail.com**
 

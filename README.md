@@ -7,9 +7,9 @@
 <a href="https://discord.com/users/704758931343278162"><img src="https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=25px&bg=#282a36" /></a>
 </div>
   
-- 🔭 I’m currently working on **Jelli**
+- 🔭 I’m currently working on **Lots of things**
 
-- 🌱 I’m currently learning **Go, Elixir, C++**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [d3r1n.com](https://d3r1n.com)
 

@@ -11,7 +11,8 @@
 <h3 align="center">Pins:</h3>
 <div align="center">
   
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=dotman&border_radius=25&theme=dracula&hide_border=true)
+  <a href="https://github.com/d3r1n/dotman"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=dotman&border_radius=25&theme=dracula&hide_border=true"></a>
+    <a href="https://github.com/d3r1n/brainsuck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=brainsuck&border_radius=25&theme=dracula&hide_border=true"></a>
 
 </div>
 

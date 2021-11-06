@@ -51,7 +51,7 @@
   <summary>Click to Show Stats</summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=d3r1n&show_icons=true&theme=dracula&hide_border=true&border_radius=25&custom_title=d3r1n's Stats&include_all_commits=true" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=d3r1n&theme=dracula&hide_border=true&border_radius=25" alt="d3r1n" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@d3r1n&theme=dracula&hide_border=true&border_radius=25" alt="d3r1n" /></p>
 <p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=d3r1n&theme=dracula&hide_border=true&border_radius=25" alt="d3r1n" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3r1n&theme=dracula&hide_border=true&border_radius=25" alt="d3r1n" /></p>
   

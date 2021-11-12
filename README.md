@@ -3,7 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3r1n&label=Profile%20views&color=80ceff&style=flat" alt="d3r1n" /> </p>
 <div align="center">
-<a href="https://discord.com/users/704758931343278162"><img src="https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=25px&bg=#282a36" /></a>
+<a href="https://discord.com/users/704758931343278162"><img src="https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=25px&bg=#282a36" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->  
+  
+</a>
 </div>
 
 ---
@@ -51,7 +56,6 @@
   <summary>Click to Show Stats</summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=d3r1n&show_icons=true&theme=dracula&hide_border=true&border_radius=25&custom_title=d3r1n's Stats&include_all_commits=true" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@d3r1n&theme=dracula&hide_border=true&border_radius=25" alt="d3r1n" /></p>
 <p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=d3r1n&theme=dracula&hide_border=true&border_radius=25" alt="d3r1n" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3r1n&theme=dracula&hide_border=true&border_radius=25" alt="d3r1n" /></p>
   

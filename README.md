@@ -6,6 +6,13 @@
 <a href="https://discord.com/users/704758931343278162"><img src="https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=25px&bg=#282a36" />
 
 <!--START_SECTION:waka-->
+```text
+Rust         6 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   47.08 % 
+Vue.js       3 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.17 % 
+Markdown     49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+JavaScript   48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Bash         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+```
 <!--END_SECTION:waka-->  
   
 </a>

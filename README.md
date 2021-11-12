@@ -30,7 +30,7 @@
 
 - 📫 How to reach me? **Via my website!**
 
-- ⚡ Fun fact **I started programming with scratch when I was 16 years old.**
+- ⚡ Fun fact **I started programming with scratch when I was 6 years old.**
 
 ---
 

@@ -4,6 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3r1n&label=Profile%20views&color=80ceff&style=flat" alt="d3r1n" /> </p>
 <div align="center">
 <a href="https://discord.com/users/704758931343278162"><img src="https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=25px&bg=#282a36"></a>
+  
+  <h3>Weekly Development Breakdown 🖥️</h3>
 
 <!--START_SECTION:waka-->
 ```text

@@ -11,10 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C++          3 hrs 28 mins   ████████████████████▒░░░░   81.67 % 
-JavaScript   34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-TypeScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->  
 </div>

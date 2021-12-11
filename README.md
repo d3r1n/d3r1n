@@ -11,7 +11,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++          24 mins         ███████████████▒░░░░░░░░░   61.43 % 
+Git Config   15 mins         █████████▓░░░░░░░░░░░░░░░   38.57 % 
 ```
 <!--END_SECTION:waka-->  
 </div>

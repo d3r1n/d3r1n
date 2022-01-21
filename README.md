@@ -2,7 +2,7 @@
 <h3 align="center">15 y.o Developer who always hungry for learning</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=d3r1n&label=Profile%20views&color=80ceff&style=flat" alt="d3r1n" /> 
+  <img src="https://komarev.com/ghpvc/?username=d3r1n&label=Profile%20views&color=80ceff&style=flat-square" alt="d3r1n" /> 
   <a href="https://wakatime.com/@5f971379-ccd6-465f-a0e1-6dfd0ade5512"><img src="https://wakatime.com/badge/user/5f971379-ccd6-465f-a0e1-6dfd0ade5512.svg?style=flat-square" alt="Total time coded since Nov 5 2021" /></a>
 </p>
 <div align="center">

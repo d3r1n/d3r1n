@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on **a lot of things**
 
-- 🌱 I’m currently learning **Rust, C++, Vue 3, Nuxt, React, Next**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning and High Level Maths**
 
 - 👨‍💻 All of my projects are available at **[https://d3r1n.com](https://d3r1n.com)**
 

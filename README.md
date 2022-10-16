@@ -6,7 +6,7 @@
   <a href="https://wakatime.com/@5f971379-ccd6-465f-a0e1-6dfd0ade5512"><img src="https://wakatime.com/badge/user/5f971379-ccd6-465f-a0e1-6dfd0ade5512.svg?style=flat-square" alt="Total time coded since Nov 5 2021" /></a>
 </p>
 <div align="center">
-<a href="https://discord.com/users/704758931343278162"><img src="https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=5px&bg=#2E3440"></a>
+<a href="https://discord.com/users/704758931343278162"><img src="https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=5px&bg=2E3440&theme=dark"></a>
 <br/>
   
 <h2 align="center">Pins:</h2>
@@ -62,7 +62,9 @@
 </details>
   </div>
 
-
-
 <h2 align="center">Spotify</h2>
-<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default"/></a></div>
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default&show_offline=false&bar_color=2e3440&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=derin9999&redirect=true)
+  
+</div>

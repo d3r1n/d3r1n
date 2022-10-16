@@ -65,6 +65,6 @@
 <h2 align="center">Spotify</h2>
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default&show_offline=false&bar_color=2e3440&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=derin9999&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default&show_offline=false&bar_color=2e3440&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=derin9999&redirect=true)
   
 </div>

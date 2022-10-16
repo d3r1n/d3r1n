@@ -6,14 +6,14 @@
   <a href="https://wakatime.com/@5f971379-ccd6-465f-a0e1-6dfd0ade5512"><img src="https://wakatime.com/badge/user/5f971379-ccd6-465f-a0e1-6dfd0ade5512.svg?style=flat-square" alt="Total time coded since Nov 5 2021" /></a>
 </p>
 <div align="center">
-<a href="https://discord.com/users/704758931343278162"><img src="https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=10px&bg=#282a36"></a>
+<a href="https://discord.com/users/704758931343278162"><img src="https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=5px&bg=#2E3440"></a>
 <br/>
   
 <h2 align="center">Pins:</h2>
 <div align="center">
   
-  <a href="https://github.com/d3r1n/dotman"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=dotman&border_radius=25&theme=dracula&hide_border=true"></a>
-    <a href="https://github.com/d3r1n/brainsuck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=brainsuck&border_radius=25&theme=dracula&hide_border=true"></a>
+  <a href="https://github.com/d3r1n/dotman"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=dotman&border_radius=5&theme=nord&hide_border=true"></a>
+    <a href="https://github.com/d3r1n/brainsuck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=brainsuck&border_radius=5&theme=nord&hide_border=true"></a>
 
 </div>
   

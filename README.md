@@ -16,9 +16,9 @@
   <br /><br />
   <a href="https://linkedin.com/in/d3r1n"><img src="./Linkedin.png" width=150 /></a>
   <br /><br />
-  <a href="https://open.spotify.com/user/derin9999"><img src="./Spotify.png" width=150/></a>
+  <a href="https://open.spotify.com/user/derin9999"><img src="./Spotify.png" width=125/></a>
   <br /><br />
-  <a href="mailto:derinondereren@gmail.com"><img src="./E-Mail.png" width=150/></a>
+  <a href="mailto:derinondereren@gmail.com"><img src="./E-Mail.png" width=125/></a>
   <br /><br /><br/>
   <img src="https://komarev.com/ghpvc/?username=d3r1n&label=Profile%20views&color=5E81AC&style=flat-square" alt="d3r1n" />
   &nbsp;

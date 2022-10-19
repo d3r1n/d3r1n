@@ -13,4 +13,10 @@
   <img src="./contact-div.png" width=800/>
   <br />
   <a href="https://discord.com/users/704758931343278162"><img src="https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=5px&bg=2E3440&theme=dark"></a>
+  <br />
+  <a href="https://linkedin.com/in/d3r1n"><img src="./Linkedin.png" /></a>
+  
+  <a href="https://open.spotify.com/user/derin9999"><img src="./Spotify.png" /></a>
+  
+  <a href="mailto:derinondereren@gmail.com"><img src="./E-Mail.png" /></a>
 </div>

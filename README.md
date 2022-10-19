@@ -19,4 +19,8 @@
   <a href="https://open.spotify.com/user/derin9999"><img src="./Spotify.png" width=150/></a>
   <br /><br />
   <a href="mailto:derinondereren@gmail.com"><img src="./E-Mail.png" width=150/></a>
+  <br /><br /><br/>
+  <img src="https://komarev.com/ghpvc/?username=d3r1n&label=Profile%20views&color=5E81AC&style=flat-square" alt="d3r1n" />
+  &nbsp;
+  <a href="https://wakatime.com/@5f971379-ccd6-465f-a0e1-6dfd0ade5512"><img src="https://wakatime.com/badge/user/5f971379-ccd6-465f-a0e1-6dfd0ade5512.svg?style=flat-square" alt="Total time coded since Nov 5 2021" /></a>
 </div>

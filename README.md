@@ -27,6 +27,8 @@
 
 ---
 
+<h1>📊 Weekly Development Breakdown</h1>
+
 <!--START_SECTION:waka-->
 
 ```text

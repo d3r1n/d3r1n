@@ -28,4 +28,18 @@
 ---
 
 <!--START_SECTION:waka-->
+
+```text
+From: 04 November 2021 - To: 19 October 2022
+
+Total Time: 222 hrs 21 mins
+
+Rust               56 hrs 45 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
+Python             46 hrs 6 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+Vue.js             38 hrs 51 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+C++                23 hrs 18 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+SCSS               12 hrs 10 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+TypeScript         7 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+```
+
 <!--END_SECTION:waka-->

@@ -25,8 +25,6 @@
   <a href="https://wakatime.com/@5f971379-ccd6-465f-a0e1-6dfd0ade5512"><img src="https://wakatime.com/badge/user/5f971379-ccd6-465f-a0e1-6dfd0ade5512.svg?style=flat-square" alt="Total time coded since Nov 5 2021" /></a>
 </div>
 
----
-
 <h2>📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->

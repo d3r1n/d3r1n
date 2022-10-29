@@ -30,16 +30,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 October 2022 - To: 27 October 2022
+From: 21 October 2022 - To: 28 October 2022
 
-Total Time: 11 hrs 29 mins
+Total Time: 6 hrs 47 mins
 
-Vue.js       6 hrs 18 mins   █████████████▓░░░░░░░░░░░   54.87 %
-Rust         4 hrs 16 mins   █████████▒░░░░░░░░░░░░░░░   37.16 %
-TypeScript   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-TOML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Rust         4 hrs 14 mins   ███████████████▓░░░░░░░░░   62.32 %
+Vue.js       2 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   30.75 %
+Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+TOML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->

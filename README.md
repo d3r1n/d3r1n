@@ -34,16 +34,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 November 2022 - To: 20 November 2022
+From: 14 November 2022 - To: 21 November 2022
 
-Total Time: 11 hrs 1 min
+Total Time: 7 hrs 23 mins
 
-Vue.js       7 hrs 58 mins   ██████████████████░░░░░░░   72.36 %
-TypeScript   58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-HTML         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-Rust         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-TOML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Vue.js       4 hrs 24 mins   ███████████████░░░░░░░░░░   59.50 %
+TypeScript   55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+HTML         44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Rust         38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+TOML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->

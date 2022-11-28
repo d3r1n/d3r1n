@@ -34,13 +34,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 November 2022 - To: 25 November 2022
+From: 20 November 2022 - To: 27 November 2022
 
-Total Time: 52 mins
+Total Time: 4 hrs 15 mins
 
-Rust    38 mins         ██████████████████▓░░░░░░   74.22 %
-TOML    13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+C#           3 hrs 20 mins   ███████████████████▓░░░░░   78.50 %
+Bash         25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Text         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->

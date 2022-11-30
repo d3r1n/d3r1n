@@ -34,14 +34,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 November 2022 - To: 28 November 2022
+From: 22 November 2022 - To: 29 November 2022
 
-Total Time: 4 hrs 15 mins
+Total Time: 4 hrs 50 mins
 
-C#           3 hrs 20 mins   ███████████████████▓░░░░░   78.50 %
-Bash         25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-Text         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+C#           3 hrs 20 mins   █████████████████▒░░░░░░░   69.14 %
+Bash         25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+Java         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Text         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+XML          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->

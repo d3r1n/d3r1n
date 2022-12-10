@@ -34,13 +34,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 08 December 2022
+From: 02 December 2022 - To: 09 December 2022
 
-Total Time: 8 hrs 10 mins
+Total Time: 6 hrs 16 mins
 
-Vue.js       7 hrs 20 mins   ██████████████████████▒░░   89.65 %
-TypeScript   42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Vue.js       5 hrs 37 mins   ██████████████████████▒░░   89.70 %
+TypeScript   30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->

@@ -34,12 +34,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 16 December 2022
+From: 11 December 2022 - To: 18 December 2022
 
-Total Time: 3 hrs 6 mins
+Total Time: 10 hrs 31 mins
 
-Rust         2 hrs 53 mins   ███████████████████████▒░   92.86 %
-Other        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Rust         10 hrs 23 mins  ████████████████████████▓   98.63 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->

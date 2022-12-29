@@ -34,16 +34,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 December 2022 - To: 27 December 2022
+From: 21 December 2022 - To: 28 December 2022
 
-Total Time: 4 hrs 13 mins
+Total Time: 2 hrs 16 mins
 
-Rust         4 hrs 6 mins    ████████████████████████▒   97.06 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-TOML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Rust         2 hrs 9 mins    ███████████████████████▓░   94.97 %
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+TOML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->

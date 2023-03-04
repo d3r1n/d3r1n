@@ -1,9 +1,9 @@
 <div align=center>
-  <img src="./Banner.png" width=900/>
+  <img src="./Banner.png" width=1024/>
   <br /> <br />
   
-  <img src="./div-pins.png" width=800/>
-  <br /><br />
+  <img src="./repo-divider.png" width=600/>
+  <br />
   
   <a href="https://github.com/d3r1n/dotman"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=dotman&border_radius=5&theme=nord&hide_border=true"></a>
   &nbsp;&nbsp;
@@ -14,8 +14,8 @@
   <a href="https://github.com/d3r1n/Rust-CHIP-8"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=Rust-CHIP-8&border_radius=5&theme=nord&hide_border=true"></a>
   <br />
   
-  <img src="./contact-div.png" width=800/>
-  <br /><br />
+  <img src="./contact-divider.png" width=600/>
+  <br />
   <a href="https://discord.com/users/704758931343278162"><img src="https://lanyard-profile-readme.vercel.app/api/704758931343278162?borderRadius=5px&bg=2E3440&theme=dark"></a>
   <br /><br />
   <a href="https://linkedin.com/in/d3r1n"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50 /></a>

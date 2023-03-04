@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="./main-banner.png" width=1024/>
+  <img src="./main-banner-readme.png" width=1024/>
   <br /> <br />
   
   <img src="./repo-divider.png" width=600/>

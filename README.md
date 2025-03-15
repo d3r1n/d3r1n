@@ -1,38 +1,35 @@
-<div align=center>
-  <img src="./main-banner-readme.png" width=1024/>
-  <br /> <br />
-  
-  <img src="./repo-divider.png" width=600/>
-  
-  <a href="https://github.com/d3r1n/dotman"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=dotman&border_radius=5&theme=nord&hide_border=true"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/d3r1n/brainsuck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=brainsuck&border_radius=5&theme=nord&hide_border=true"></a>
-  
-  <br />
-  
-  <a href="https://github.com/d3r1n/Rust-CHIP-8"><img src="https://github-readme-stats.vercel.app/api/pin/?username=d3r1n&repo=Rust-CHIP-8&border_radius=5&theme=nord&hide_border=true"></a>
-  <br />
-  
-  <img src="./contact-divider.png" width=600/>
+<h1 align="center">Hi 👋, I'm Derin</h1>
+<h3 align="center">jack of all trades, Turkish</h3>
 
-  <a href="https://linkedin.com/in/d3r1n" target="_blank"><img src="./linkedin.svg" width=50 /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/704758931343278162" target="_blank"><img src="./discord.svg" width=50 /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:derinondereren@gmail.com" target="_blank"><img src="./gmail.svg" width=50 /></a>
-  
-  <img src="./extras-divider.png" width=600/>
-  <br />
-  
-  <img src="https://komarev.com/ghpvc/?username=d3r1n&label=Profile%20views&color=5E81AC&style=flat-square" alt="d3r1n" />
-  
-  <br />
-  <br />
-  
-  <a href="https://www.data-card-for-spotify.com/card?user_id=derin9999">
-    <img src="https://www.data-card-for-spotify.com/api/card?user_id=derin9999" alt="Data Card for Spotify">
-  </a>
-  
-  <br />
-  
-</div>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=d3r1n&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="d3r1n" /> 
+    <a href="https://linkedin.com/in/d3r1n">
+        <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-d3r1n-333333?style=for-the-badge&labelColor=0072b1" />
+    </a>
+    <a href="https://dev.to/d3r1n">
+        <img alt="Static Badge" src="https://img.shields.io/badge/dev.to-d3r1n-333333?style=for-the-badge&logo=dev.to&logoSize=auto&labelColor=0A0A0A">
+    </a>
+</p>
+
+
+- working on: [portfolio](https://github.com/d3r1n/portfolio)
+
+- currently learning: **low level development, maths, AI/ML from scratch**
+
+- portfolio: [https:/derineren.net](https:/derineren.net)
+
+- blogs/rants/thoughts: [https://dev.to/d3r1n](https://dev.to/d3r1n)
+
+- reach me: **me@derineren.net**
+
+- resume: [https://resume.derineren.net](https://resume.derineren.net)
+
+<h2 align="center">Pinned repos</h2>
+
+| Project                                                                                                           | Description                                                      |
+| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [portfolio](https://github.com/d3r1n/portfolio)                                                                   | my online portfolio built with FastAPI & SolidJS                 |
+| [dotman](https://github.com/d3r1n/dotman)                                                                         | **[Archived]** simple dotfile manager                            |
+| [brainsuck](https://github.com/d3r1n/brainsuck)                                                                   | **[Archived]** brainf*ck interpreter/compiler(?) built with rust |
+| [More?](https://www.goodreads.com/quotes/920306-let-s-go-invent-tomorrow-instead-of-worrying-about-what-happened) | Coming soon... :)                                                |
+

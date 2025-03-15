@@ -16,7 +16,7 @@
 
 - currently learning: **low level development, maths, AI/ML from scratch**
 
-- portfolio: [https:/derineren.net](https:/derineren.net)
+- portfolio: [https:/derineren.net](https://derineren.net)
 
 - blogs/rants/thoughts: [https://dev.to/d3r1n](https://dev.to/d3r1n)
 

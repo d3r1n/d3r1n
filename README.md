@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derin</h1>
-<h3 align="center">jack of all trades • koinophobic • turkish</h3>
+<h3 align="center">polymath • koinophobic • turkish</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=d3r1n&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="d3r1n" /> 
@@ -33,3 +33,4 @@
 | [brainsuck](https://github.com/d3r1n/brainsuck)                                                                   | **[Archived]** brainf*ck interpreter/compiler(?) built with rust |
 | [More?](https://www.goodreads.com/quotes/920306-let-s-go-invent-tomorrow-instead-of-worrying-about-what-happened) | Coming soon... :)                                                |
 
+> _YOU'RE GETTING RUSTY MACHINE_

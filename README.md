@@ -33,4 +33,4 @@
 | [brainsuck](https://github.com/d3r1n/brainsuck)                                                                   | **[Archived]** brainf*ck interpreter/compiler(?) built with rust |
 | [More?](https://www.goodreads.com/quotes/920306-let-s-go-invent-tomorrow-instead-of-worrying-about-what-happened) | Coming soon... :)                                                |
 
-> _YOU'RE GETTING RUSTY MACHINE_
+> _YOU'RE GETTING RUSTY, MACHINE_

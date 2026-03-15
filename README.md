@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derin</h1>
-<h3 align="center">polymath • koinophobic • turkish</h3>
+<h3 align="center">polymath • turkish</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=d3r1n&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="d3r1n" /> 
